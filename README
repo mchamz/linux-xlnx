@@ -16,3 +16,8 @@ several of them using the Restructured Text markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+
+----------- Das ist mein Notieren ----------------
+Kernel  als externe Source Pfad --> ${TOPDIR}/../component/ext_sources/My_Kernel
+Diese Info ist auch gültig für U-Boot 
